@@ -1,0 +1,29 @@
+{
+  "name": "screenblob",
+  "version": "2.1.5",
+  "description": "A lightweight Node.js library for capturing screenshots of websites.",
+  "main": "screenblob.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "screenshot",
+    "selenium",
+    "webdriver",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chromedriver": "^127.0.2",
+    "selenium-webdriver": "^4.23.0",
+    "sharp": "^0.33.4",
+    "winston": "^3.13.1",
+    "yargs": "^17.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beukzdev/screenblob.git"
+  },
+  "homepage": "https://github.com/beukzdev/screenblob#readme"
+}
